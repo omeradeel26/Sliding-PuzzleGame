@@ -1,0 +1,12 @@
+.Box{
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 300;
+    color: white;
+}

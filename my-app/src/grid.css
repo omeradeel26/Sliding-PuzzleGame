@@ -1,0 +1,9 @@
+.grid{
+    width: 305px;
+    height: 305px;
+    display: block;
+}
+
+.sect{
+    display:flex;
+}
